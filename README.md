@@ -3,7 +3,7 @@ Break the code into individual modules
 
 agentic_agent/
 
-+-- agent/
++-- agent/   (Decision Making)
 
 ¦   +-- core.py              # Main reasoning + loop logic from talk2mcp
 
